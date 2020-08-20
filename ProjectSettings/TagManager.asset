@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Collision
+    uniqueID: 3732516591
+    locked: 0
+  - name: Background
+    uniqueID: 1241304123
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3570499887
+    locked: 0
+  - name: Foreground
+    uniqueID: 3685414489
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
